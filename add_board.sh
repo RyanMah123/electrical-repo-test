@@ -8,3 +8,5 @@ git branch $B_NAME
 echo ${WORKTREE_ADD_CMD} >> install.sh
 echo ${GIT_IGNORE_ENTRY} >> .gitignore
 
+./install.sh
+
