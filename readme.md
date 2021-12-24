@@ -7,3 +7,9 @@ cd electrical-repo-test
 ./install.sh
 ```
 
+To add a new board (branch):
+
+```bash
+./add_board.sh
+```
+
